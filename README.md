@@ -1,1 +1,1 @@
-Initial site for Sincuru.
+Initial site made for Sincuru.
